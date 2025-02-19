@@ -91,7 +91,7 @@ body {
 
 .middle {
   width: 100%;
-  height: 30vh;
+  height: 40vh;
   font-size: 1.5em;
   background-color: white;
   box-sizing: border-box;
@@ -101,7 +101,7 @@ body {
 
 .bottom {
   width: 100%;
-  height: 30vh;
+  height: 20vh;
   background-color: rgb(245,245,245);
   box-sizing: border-box;
   padding-top: 40px;
